@@ -1,12 +1,21 @@
 # Halo semuanya, Saya Arif Maulana 👋
 
 > ✨ **"Ngoding Aja Terus, Bisanya Belakangan."**
+> *Sebuah prinsip bahwa konsistensi dan kemauan untuk terus mencoba jauh lebih berharga daripada sekadar bakat. Setiap bug yang diselesaikan adalah satu langkah lebih dekat menuju keahlian.*
 
 Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembangunan RESTful API yang aman, berkinerja tinggi, dan menerapkan Clean Architecture. Saat ini saya aktif mendalami ekosistem Python, manajemen database NoSQL/SQL, dan otomasi cloud.
 
 ---
 
 ### 🛠️ Tech Stack & Alat Kerja
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
 
 - **Bahasa Pemrograman:** Python, HTML, JavaScript
 - **Framework & Libraries:** FastAPI, Pydantic, PyJWT, Passlib, Async Motor
@@ -15,23 +24,23 @@ Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembang
 
 ---
 
-### 🚀 Proyek Unggulan
+### 🚀 Proyek Utama
 
-- 📁 **[Contact Cloud — Advanced REST API](https://github.com/arifmaulana49/fastapi-mongodb-rest-api)**
+* 📁 **[Contact Cloud — Advanced REST API](https://github.com/arifmaulana49/fastapi-mongodb-rest-api)**
   Sistem manajemen kontak asinkron berbasis FastAPI dan MongoDB Cloud, dilengkapi dengan pengamanan token JWT dan enkripsi Bcrypt. Aplikasi ini sudah dikonfigurasi dengan standar keamanan industri dan ter-deploy secara otomatis di platform cloud Railway.
 
 ---
 
-### 📈 Statistik GitHub
+### 📊 Aktivitas & Statistik GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifmaulana49&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Arif" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmaulana49&layout=compact&theme=tokyonight&hide=html" alt="Bahasa Terbanyak" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifmaulana49&theme=tokyonight" alt="Streak Statistik Arif" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmaulana49&layout=compact&theme=tokyonight&langs_count=5" alt="Bahasa Terbanyak" width="49%" />
 </p>
 
 ---
 
 ### 📫 Mari Terhubung!
 
-- **LinkedIn:** [linkedin.com/in/arifmaulana49](https://linkedin.com)
 - **Email:** maulanaarif1904@gmail.com
+- **LinkedIn:** [linkedin.com/in/arifmaulana49](https://linkedin.com)
