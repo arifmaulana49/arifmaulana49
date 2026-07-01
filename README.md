@@ -37,7 +37,7 @@ Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembang
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifmaulana49&theme=tokyonight" alt="Streak Statistik Arif" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmaulana49&layout=compact&theme=tokyonight&langs_count=5" alt="Bahasa Terbanyak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmaulana49&layout=compact&theme=tokyonight&hide=html,css" alt="Bahasa Terbanyak" width="49%" />
 </p>
 
 ---
