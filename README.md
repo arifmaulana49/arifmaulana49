@@ -1,7 +1,7 @@
 # Halo semuanya, Saya Arif Maulana 👋
 
 > ✨ **"Ngoding Aja Terus, Bisanya Belakangan."**
-> *Sebuah prinsip bahwa konsistensi dan kemauan untuk terus mencoba jauh lebih berharga daripada sekadar bakat. Setiap bug yang diselesaikan adalah satu langkah lebih dekat menuju keahlian.*
+> *Konsistensi dan kemauan untuk terus mencoba jauh lebih berharga daripada sekadar bakat. Setiap bug yang diselesaikan adalah satu langkah lebih dekat menuju keahlian.*
 
 Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembangunan RESTful API yang aman, berkinerja tinggi, dan menerapkan Clean Architecture. Saat ini saya aktif mendalami ekosistem Python, manajemen database NoSQL/SQL, dan otomasi cloud.
 
