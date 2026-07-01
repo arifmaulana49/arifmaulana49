@@ -1,16 +1,38 @@
-## Hi there 👋
+# Halo semuanya, Saya Arif Maulana 👋
 
-<!--
-**arifmaulana49/arifmaulana49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ✨ **"Ngoding Aja Terus, Jagonya Belakangan."**
+> *Sebuah prinsip bahwa konsistensi dan kemauan untuk terus mencoba jauh lebih berharga daripada sekadar bakat. Setiap bug yang diselesaikan adalah satu langkah lebih dekat menuju keahlian.*
 
-Here are some ideas to get you started:
+Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembangunan RESTful API yang aman, berkinerja tinggi, dan menerapkan Clean Architecture. Saat ini saya aktif mendalami ekosistem Python, manajemen database NoSQL/SQL, dan otomasi cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Alat Kerja
+
+- **Bahasa Pemrograman:** Python, HTML, JavaScript
+- **Framework & Libraries:** FastAPI, Pydantic, PyJWT, Passlib, Async Motor
+- **Database:** MongoDB Atlas (Cloud), SQLite
+- **Tools & DevOps:** Git, GitHub, VS Code, Railway, Netlify
+
+---
+
+### 🚀 Proyek Unggulan
+
+- 📁 **[Contact Cloud — Advanced REST API](https://github.com/arifmaulana49/fastapi-mongodb-rest-api)**
+  Sistem manajemen kontak asinkron berbasis FastAPI dan MongoDB Cloud, dilengkapi dengan pengamanan token JWT dan enkripsi Bcrypt. Aplikasi ini sudah dikonfigurasi dengan standar keamanan industri dan ter-deploy secara otomatis di platform cloud Railway.
+
+---
+
+### 📈 Statistik GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifmaulana49&show_icons=true&theme=tokyonight&count_private=true" alt="Statistik GitHub Arif" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifmaulana49&layout=compact&theme=tokyonight&hide=html" alt="Bahasa Terbanyak" height="180px" />
+</p>
+
+---
+
+### 📫 Mari Terhubung!
+
+- **LinkedIn:** [linkedin.com/in/arifmaulana49](https://linkedin.com)
+- **Email:** maulanaarif1904@gmail.com
