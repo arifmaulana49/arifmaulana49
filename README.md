@@ -30,7 +30,7 @@ Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembang
   Sistem manajemen kontak asinkron berbasis FastAPI dan MongoDB Cloud, dilengkapi dengan pengamanan token JWT dan enkripsi Bcrypt. Aplikasi ini sudah dikonfigurasi dengan standar keamanan industri dan ter-deploy secara otomatis di platform cloud Railway.
   
 **🌐 Coba Aplikasi (Live Demo):** 
-  - [Halaman Dokumentasi Interaktif (Swagger UI)](https://fastapi-mongodb-rest-api-production.up.railway.app/docs)
+  - [Halaman Dokumentasi Interaktif (Swagger UI)](https://fastapi-mongodb-rest-api-production.up.railway.app)
 ---
 
 ### 📊 Aktivitas & Statistik GitHub
