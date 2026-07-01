@@ -43,4 +43,4 @@ Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembang
 ### 📫 Mari Terhubung!
 
 - **Email:** maulanaarif1904@gmail.com
-- **LinkedIn:** [linkedin.com/in/arifmaulana49]([https://linkedin.com](https://www.linkedin.com/in/arif-maulana-65457040b/))
+- **LinkedIn:** [linkedin.com/in/arifmaulana49](https://linkedin.com)
