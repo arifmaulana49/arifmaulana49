@@ -1,6 +1,6 @@
-# Halo semuanya, Saya Arif Maulana 👋
+# Halo semuanya, Saya Arif Maulana 
 
-> ✨ **"Ngoding Aja Terus, Bisanya Belakangan."**
+>  **"Ngoding Aja Terus, Bisanya Belakangan."**
 > *Konsistensi dan kemauan untuk terus mencoba jauh lebih berharga daripada sekadar bakat. Setiap bug yang diselesaikan adalah satu langkah lebih dekat menuju keahlian.*
 
 Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembangunan RESTful API yang aman, berkinerja tinggi, dan menerapkan Clean Architecture. Saat ini saya aktif mendalami ekosistem Python, manajemen database NoSQL/SQL, dan otomasi cloud.
@@ -24,16 +24,16 @@ Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembang
 
 ---
 
-### 🚀 Proyek Utama
+###  Proyek Utama
 
-* 📁 **[Contact Cloud — Advanced REST API](https://github.com/arifmaulana49/fastapi-mongodb-rest-api)**
+* **[Contact Cloud — Advanced REST API](https://github.com/arifmaulana49/fastapi-mongodb-rest-api)**
   Sistem manajemen kontak asinkron berbasis FastAPI dan MongoDB Cloud, dilengkapi dengan pengamanan token JWT dan enkripsi Bcrypt. Aplikasi ini sudah dikonfigurasi dengan standar keamanan industri dan ter-deploy secara otomatis di platform cloud Railway.
   
-**🌐 Coba Aplikasi (Live Demo):** 
+**Coba Aplikasi (Live Demo):** 
   - [Halaman Dokumentasi Interaktif (Swagger UI)](https://fastapi-mongodb-rest-api-production.up.railway.app)
 ---
 
-### 📊 Aktivitas & Statistik GitHub
+### Aktivitas & Statistik GitHub
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifmaulana49&theme=tokyonight" alt="Streak Statistik Arif" width="49%" />
@@ -41,7 +41,7 @@ Saya adalah seorang Backend Developer & IT Enthusiast yang berfokus pada pembang
 
 ---
 
-### 📫 Mari Terhubung!
+###  Mari Terhubung!
 
 - **Email:** maulanaarif1904@gmail.com
 - **LinkedIn:** [linkedin.com/in/arifmaulana49](https://linkedin.com)
